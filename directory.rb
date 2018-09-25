@@ -1,5 +1,3 @@
-student_count = 11
-
 students = [
   "Dr. Hannibal Lecter",
   "Darth Vader",
